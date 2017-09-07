@@ -52,7 +52,7 @@ For example, an application profile can include the following components to desc
   - **Range:** what type of data can be entered into the field (e.g., text string, URI)
   - **Input guidelines:** where the data to populate the field is obtained and how it should be formatted and entered (e.g., title input guidelines for correspondence may indicate titles should be formatted as “Letter from [sender] to [recipient], [date]” in your repository)
 	
-Whether creating an application profile from scratch or updating a legacy profile, it’s helpful to review the application profiles of other institutions, especially those with similar collections and/or functional requirements. Also, while your application profile can be highly tailored to the metadata elements, controlled vocabularies, or functional requirements of your institution, it’s important to be aware of metadata standards within the cultural heritage community (or the communities with which your institution is associated) and, where it makes sense to do so, to align local practices with community standards. Examples of metadata profiles and mappings between common metadata schema are available in the [Sample MAPs and Mappings section](link_TBD). Tutorials, presentations, and other resources for understanding and building metadata application profiles are also available in the linked folder.
+Whether creating an application profile from scratch or updating a legacy profile, it’s helpful to review the application profiles of other institutions, especially those with similar collections and/or functional requirements. Also, while your application profile can be highly tailored to the metadata elements, controlled vocabularies, or functional requirements of your institution, it’s important to be aware of metadata standards within the cultural heritage community (or the communities with which your institution is associated) and, where it makes sense to do so, to align local practices with community standards. Examples of metadata profiles and mappings between common metadata schema are available in the <a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/">Metadata Application Profile (MAP) Clearinghouse</a>, a project maintained by the DLF AIG Metadata Assessment Working Group. For more about the MAP Clearinghouse, see <a href="https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/wiki">the project wiki</a>.
 
 
 <h4>Considerations for prioritizing assessment</h4>
@@ -99,9 +99,9 @@ Metadata assessment is valuable as an iterative process over time. The following
 
 
 <h3>Select the right tools</h3>
-When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools. 
+When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools.  
 
-The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the [Tools section](link_TBD), while a detailed spreadsheet listing tools with brief descriptions of their scope and purpose is available at [insert location if still necessary](link_TBD). 
+The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the [Tools section](link_TBD), while a detailed spreadsheet listing tools with brief descriptions of their scope and purpose is available at [insert location if still necessary](link_TBD).  
 
 As you review potential tools, revisit the factors that helped determine your assessment approach. Also, consider how you will be getting your data—different tools may be suitable depending on how you can export/transform it. When evaluating possible tools, think about the tools or methodologies you are already familiar with and how much time you might have to learn a new software program or acquire a new skill. Metadata assessment is a good opportunity to begin learning some code, or expand your coding experience. 
 
@@ -111,7 +111,8 @@ You’ll likely need to account for the following resources when working with a 
 
   - Staff (including yourself!) who know how to use tools or have the time to learn a new tool
   - Technological ecosystem (e.g., the ability to easily install a new tool, compatibility with data format and workflow)
-  - Budget 
+  - Budget
+
 In addition to the three resource considerations mentioned above there is a fourth key resource:
 
   - Support
