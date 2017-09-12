@@ -12,7 +12,7 @@ layout: page
 
 # Metadata Assessment Framework and Guidance
 
-<h3>Metadata metrics</h3>
+<h3 id="Metadata_metrics">Metadata metrics</h3>
 
 <h4>Determine what metadata quality means to you</h4>
 Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of [recommended publications](link_TBD) for further investigation. 
@@ -31,7 +31,7 @@ The following list presents common quality criteria and assertions and is intend
 
 
 
-<h3>Determine what to assess</h3>
+<h3 id="Determine_what_to_assess">Determine what to assess</h3>
 
 <h4>Documentation as a starting point</h4>
 Well-documented practices and policies increase assessment efficiency and effectiveness. Strategic documentation can increase and improve communication across different communities (creators, stakeholders, users) and provide a record of decisions. Documentation about local metadata practices and policies can take many forms and may be known as guidelines, standards, data dictionaries, or application profiles. In the following sections we use the term “application profile” to refer to this type of documentation.
@@ -77,7 +77,7 @@ If the intricacies of weighted scoring loom as obstacles to progress, use an app
 
 
 
-<h3>Get your data</h3>
+<h3 id="Get_your_data">Get your data</h3>
 
 <h4>Preparation</h4>
 You’ll need access to your metadata in a format suitable for analysis. Some systems include functionality for the export of data from a user interface, but others do not; you may need to work with your developers on extracting the data directly from your database. It’s helpful to know ahead of time what data format you’ll need, which will depend on the tools and techniques you’ll use to assess your metadata. While this document's purpose is to address metadata assessment, data format decisions impact remediation work in the cycle of metadata review and revision.
@@ -98,7 +98,7 @@ Metadata assessment is valuable as an iterative process over time. The following
 
 
 
-<h3>Select the right tools</h3>
+<h3 id="Select_the_right_tools">Select the right tools</h3>
 When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools.  
 
 The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the [Tools section](link_TBD), while a detailed spreadsheet listing tools with brief descriptions of their scope and purpose is available at [insert location if still necessary](link_TBD).  
@@ -121,7 +121,7 @@ It is inevitable that once you plunge enthusiastically into metadata assessment 
 
 
 
-<h3>Documenting assessment</h3>
+<h3 id="Documenting_assessment">Documenting assessment</h3>
 Documentation is an important part of metadata quality analysis. 
 
   - **Advocacy.** Documentation is not only is a means to record and share institutional knowledge, but is also an important tool for raising awareness about work that can be “invisible.”
