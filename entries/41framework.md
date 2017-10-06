@@ -15,7 +15,7 @@ layout: page
 <h3 id="Metadata_metrics">Metadata metrics</h3>
 
 <h4>Determine what metadata quality means to you</h4>
-Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of [recommended publications](link_TBD) for further investigation. 
+Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/33publications.html">recommended publications</a> for further investigation. 
 
 
 <h4>Sample metrics for common metadata quality criteria</h4>
@@ -101,7 +101,7 @@ Metadata assessment is valuable as an iterative process over time. The following
 <h3 id="Select_the_right_tools">Select the right tools</h3>
 When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools.  
 
-The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the [Tools section](link_TBD), while a detailed spreadsheet listing tools with brief descriptions of their scope and purpose is available at [insert location if still necessary](link_TBD).  
+The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/34tools.html">Tools section of the Environmental Scan</a>, along with a link to a <a href="http://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit">detailed documentation</a> listing each tool with a brief descriptions of its scope and purpose. (<a href="http://dlfmetadataassessment.github.io/Tools/">Tools</a> assessment is an ongoing area of work.) 
 
 As you review potential tools, revisit the factors that helped determine your assessment approach. Also, consider how you will be getting your data—different tools may be suitable depending on how you can export/transform it. When evaluating possible tools, think about the tools or methodologies you are already familiar with and how much time you might have to learn a new software program or acquire a new skill. Metadata assessment is a good opportunity to begin learning some code, or expand your coding experience. 
 
@@ -117,7 +117,7 @@ In addition to the three resource considerations mentioned above there is a four
 
 - - -- Support
 
-It is inevitable that once you plunge enthusiastically into metadata assessment you’ll find you need a bit of help. Plan ahead. Some tools have more extensive documentation or more active communities than others; these resources may be helpful or daunting depending on your skill level. For a resource that requires no metadata or technical expertise, we recommend the tool-agnostic [DLF Metadata Support Group](https://www.diglib.org/dlf-metadata-support-group/), which provides a friendly community on Slack that is “a place to share resources, strategies for working through some common metadata conundrums, and reassurances that you’re not the only one that has no idea how that happened.” Identifying resources to support your tool use before you start will provide a foundation for finding solutions when you encounter issues down the road.<a href="#footnote-2">[2]</a>
+It is inevitable that once you plunge enthusiastically into metadata assessment you’ll find you need a bit of help. Plan ahead. Some tools have more extensive documentation or more active communities than others; these resources may be helpful or daunting depending on your skill level. For a resource that requires no metadata or technical expertise, we recommend the tool-agnostic <a href="https://www.diglib.org/dlf-metadata-support-group/">DLF Metadata Support Group</a>, which provides a friendly community on Slack that is “a place to share resources, strategies for working through some common metadata conundrums, and reassurances that you’re not the only one that has no idea how that happened.” Identifying resources to support your tool use before you start will provide a foundation for finding solutions when you encounter issues down the road.<a href="#footnote-2">[2]</a>
 
 
 
