@@ -1,5 +1,4 @@
 ---
-sectionclass: h2
 sectionid: index-framework
 parent-id: index
 is-parent: yes
